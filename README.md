@@ -1,6 +1,6 @@
 # Animations App
 ---
-### A Simple android app which shows you animatioons after opening it
+### A Simple android app which shows you animations after opening it
 ---
 ## Using Tech:
 
